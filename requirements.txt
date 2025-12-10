@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+torch
+torchvision
+torchaudio
+
+d3rlpy
+gymnasium
+
+tqdm
+
+# Optional but useful
+jupyter
+notebook
